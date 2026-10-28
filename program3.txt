@@ -1,2 +1,6 @@
 good
+<<<<<<< HEAD
 himanish
+=======
+New file added
+>>>>>>> 1bb32a7 (New data inserted)
